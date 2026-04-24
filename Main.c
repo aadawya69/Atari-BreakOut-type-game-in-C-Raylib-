@@ -2,7 +2,7 @@
 
 
 int main(void){
-    InitWindow(800 ,400, "basic window"); // for initializing the window
+    InitWindow(800 ,400, "basic window"); 
     Vector2 position; 
     position.x = 400;
     position.y = 380;
